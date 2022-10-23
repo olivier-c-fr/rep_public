@@ -1,0 +1,8 @@
+{
+"persons" : [
+{ "id" : 1 , "name" : "Dupont Paul"},
+{ "id" : 2 , "name" : "Smith John"},
+{ "id" : 3 , "name" : "Garcia Ramirez"},
+{ "id" : 4 , "name" : "Schmidt Kurtz"}
+]
+}
